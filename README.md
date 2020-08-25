@@ -2,7 +2,7 @@
 
 - Trabalho como Engenheira de Testes no CESAR 🧡
 
-- Atualmente estou estudando Git e montando um treinamento para iniciantes em Git 📚
+- Atualmente estou estudando Git/GitHub 📚
 
 - @qa_girls - Desafios de ser uma mulher no mundo da Qualidade de Software  👩🏻‍💻
 
