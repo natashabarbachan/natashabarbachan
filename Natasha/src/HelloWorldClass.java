@@ -6,6 +6,9 @@ public class HelloWorldClass {
 		System.out.println("Hello World!");
 		System.out.println("Segundo Commit");
 		System.out.println("Terceiro Commit");
+		System.out.println("Prática para a disciplina de GCMS");
+		System.out.println("Adicionando nova linha");
+		
 
 	}
 
