@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HelloWorldClass {
+public class HelloWorld {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -8,17 +8,9 @@ public class HelloWorldClass {
 		System.out.println("Segundo Commit");
 		System.out.println("Terceiro Commit");
 		System.out.println("Prática para a disciplina de GCMS");
-		System.out.println("Adicionando nova linha");
 		
-		int num;
-		Scanner entrada = new Scanner(System.in);
-		
-		System.out.println("Informe um número qualquer: ");
-		num = entrada.nextInt();
-		System.out.println("O número informado foi: " + num);
-		
-		
+		System.out.println("Adicionando nova linha da Prática 03");
+		System.out.println("Parte 1 - Passo 2");
 
 	}
-
 }
