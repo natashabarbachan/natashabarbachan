@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HelloWorldClass {
+public class HelloWorld {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -11,6 +11,7 @@ public class HelloWorldClass {
 		
 		System.out.println("Adicionando nova linha da Prática 03");
 		System.out.println("Parte 1 - Passo 2 - Modificando em master");
+		System.out.println("Parte 1 - Passo 2");
 
 	}
 }
